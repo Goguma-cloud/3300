@@ -1,0 +1,1 @@
+This is a file containing the projects from my 3300 Lab class which is an intro to verilog class. Fair warning the edc file is made for the Nexus A7 board. for adjustments please change the respective ports for you baords specs
